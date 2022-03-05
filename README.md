@@ -1,4 +1,5 @@
 # yonca_yeprem_cubit
+![anime](https://user-images.githubusercontent.com/70916991/156900874-18ccfcc0-9e29-4174-826a-ff46a9c40caa.gif)
 
 A new Flutter project.
 
